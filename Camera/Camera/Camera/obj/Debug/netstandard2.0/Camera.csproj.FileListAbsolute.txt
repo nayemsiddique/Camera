@@ -1,0 +1,12 @@
+C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera\bin\Debug\netstandard2.0\Camera.deps.json
+C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera\bin\Debug\netstandard2.0\Camera.dll
+C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera\bin\Debug\netstandard2.0\Camera.pdb
+C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera\obj\Debug\netstandard2.0\Camera.csproj.CoreCompileInputs.cache
+C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera\obj\Debug\netstandard2.0\Camera.AssemblyInfoInputs.cache
+C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera\obj\Debug\netstandard2.0\Camera.AssemblyInfo.cs
+C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera\obj\Debug\netstandard2.0\Camera.dll
+C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera\obj\Debug\netstandard2.0\Camera.pdb
+C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera\obj\Debug\netstandard2.0\Camera.csprojAssemblyReference.cache
+C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera\obj\Debug\netstandard2.0\XamlC.stamp
