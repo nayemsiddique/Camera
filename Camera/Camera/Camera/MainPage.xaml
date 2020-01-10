@@ -7,7 +7,9 @@
     <StackLayout VerticalOptions="Center">
         <Button Text="Capture" Clicked="TakePhotoAction"></Button>
         <Button Text="Choose" Clicked="ChoosePhotoAction"></Button>
+        <Button Text="Upload" Clicked="UploadButtonAction"></Button>
         <Image x:Name="myImage"></Image>
+        <Label x:Name="label"></Label>
     </StackLayout>
 
 </ContentPage>
