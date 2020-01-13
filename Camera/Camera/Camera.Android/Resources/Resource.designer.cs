@@ -26,6 +26,108 @@ namespace Camera.Droid
 		
 		public static void UpdateIdValues()
 		{
+			global::Xamarin.Essentials.Resource.Attribute.font = global::Camera.Droid.Resource.Attribute.font;
+			global::Xamarin.Essentials.Resource.Attribute.fontProviderAuthority = global::Camera.Droid.Resource.Attribute.fontProviderAuthority;
+			global::Xamarin.Essentials.Resource.Attribute.fontProviderCerts = global::Camera.Droid.Resource.Attribute.fontProviderCerts;
+			global::Xamarin.Essentials.Resource.Attribute.fontProviderFetchStrategy = global::Camera.Droid.Resource.Attribute.fontProviderFetchStrategy;
+			global::Xamarin.Essentials.Resource.Attribute.fontProviderFetchTimeout = global::Camera.Droid.Resource.Attribute.fontProviderFetchTimeout;
+			global::Xamarin.Essentials.Resource.Attribute.fontProviderPackage = global::Camera.Droid.Resource.Attribute.fontProviderPackage;
+			global::Xamarin.Essentials.Resource.Attribute.fontProviderQuery = global::Camera.Droid.Resource.Attribute.fontProviderQuery;
+			global::Xamarin.Essentials.Resource.Attribute.fontStyle = global::Camera.Droid.Resource.Attribute.fontStyle;
+			global::Xamarin.Essentials.Resource.Attribute.fontWeight = global::Camera.Droid.Resource.Attribute.fontWeight;
+			global::Xamarin.Essentials.Resource.Boolean.abc_action_bar_embed_tabs = global::Camera.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::Xamarin.Essentials.Resource.Color.notification_action_color_filter = global::Camera.Droid.Resource.Color.notification_action_color_filter;
+			global::Xamarin.Essentials.Resource.Color.notification_icon_bg_color = global::Camera.Droid.Resource.Color.notification_icon_bg_color;
+			global::Xamarin.Essentials.Resource.Color.ripple_material_light = global::Camera.Droid.Resource.Color.ripple_material_light;
+			global::Xamarin.Essentials.Resource.Color.secondary_text_default_material_light = global::Camera.Droid.Resource.Color.secondary_text_default_material_light;
+			global::Xamarin.Essentials.Resource.Dimension.compat_button_inset_horizontal_material = global::Camera.Droid.Resource.Dimension.compat_button_inset_horizontal_material;
+			global::Xamarin.Essentials.Resource.Dimension.compat_button_inset_vertical_material = global::Camera.Droid.Resource.Dimension.compat_button_inset_vertical_material;
+			global::Xamarin.Essentials.Resource.Dimension.compat_button_padding_horizontal_material = global::Camera.Droid.Resource.Dimension.compat_button_padding_horizontal_material;
+			global::Xamarin.Essentials.Resource.Dimension.compat_button_padding_vertical_material = global::Camera.Droid.Resource.Dimension.compat_button_padding_vertical_material;
+			global::Xamarin.Essentials.Resource.Dimension.compat_control_corner_material = global::Camera.Droid.Resource.Dimension.compat_control_corner_material;
+			global::Xamarin.Essentials.Resource.Dimension.notification_action_icon_size = global::Camera.Droid.Resource.Dimension.notification_action_icon_size;
+			global::Xamarin.Essentials.Resource.Dimension.notification_action_text_size = global::Camera.Droid.Resource.Dimension.notification_action_text_size;
+			global::Xamarin.Essentials.Resource.Dimension.notification_big_circle_margin = global::Camera.Droid.Resource.Dimension.notification_big_circle_margin;
+			global::Xamarin.Essentials.Resource.Dimension.notification_content_margin_start = global::Camera.Droid.Resource.Dimension.notification_content_margin_start;
+			global::Xamarin.Essentials.Resource.Dimension.notification_large_icon_height = global::Camera.Droid.Resource.Dimension.notification_large_icon_height;
+			global::Xamarin.Essentials.Resource.Dimension.notification_large_icon_width = global::Camera.Droid.Resource.Dimension.notification_large_icon_width;
+			global::Xamarin.Essentials.Resource.Dimension.notification_main_column_padding_top = global::Camera.Droid.Resource.Dimension.notification_main_column_padding_top;
+			global::Xamarin.Essentials.Resource.Dimension.notification_media_narrow_margin = global::Camera.Droid.Resource.Dimension.notification_media_narrow_margin;
+			global::Xamarin.Essentials.Resource.Dimension.notification_right_icon_size = global::Camera.Droid.Resource.Dimension.notification_right_icon_size;
+			global::Xamarin.Essentials.Resource.Dimension.notification_right_side_padding_top = global::Camera.Droid.Resource.Dimension.notification_right_side_padding_top;
+			global::Xamarin.Essentials.Resource.Dimension.notification_small_icon_background_padding = global::Camera.Droid.Resource.Dimension.notification_small_icon_background_padding;
+			global::Xamarin.Essentials.Resource.Dimension.notification_small_icon_size_as_large = global::Camera.Droid.Resource.Dimension.notification_small_icon_size_as_large;
+			global::Xamarin.Essentials.Resource.Dimension.notification_subtext_size = global::Camera.Droid.Resource.Dimension.notification_subtext_size;
+			global::Xamarin.Essentials.Resource.Dimension.notification_top_pad = global::Camera.Droid.Resource.Dimension.notification_top_pad;
+			global::Xamarin.Essentials.Resource.Dimension.notification_top_pad_large_text = global::Camera.Droid.Resource.Dimension.notification_top_pad_large_text;
+			global::Xamarin.Essentials.Resource.Drawable.notification_action_background = global::Camera.Droid.Resource.Drawable.notification_action_background;
+			global::Xamarin.Essentials.Resource.Drawable.notification_bg = global::Camera.Droid.Resource.Drawable.notification_bg;
+			global::Xamarin.Essentials.Resource.Drawable.notification_bg_low = global::Camera.Droid.Resource.Drawable.notification_bg_low;
+			global::Xamarin.Essentials.Resource.Drawable.notification_bg_low_normal = global::Camera.Droid.Resource.Drawable.notification_bg_low_normal;
+			global::Xamarin.Essentials.Resource.Drawable.notification_bg_low_pressed = global::Camera.Droid.Resource.Drawable.notification_bg_low_pressed;
+			global::Xamarin.Essentials.Resource.Drawable.notification_bg_normal = global::Camera.Droid.Resource.Drawable.notification_bg_normal;
+			global::Xamarin.Essentials.Resource.Drawable.notification_bg_normal_pressed = global::Camera.Droid.Resource.Drawable.notification_bg_normal_pressed;
+			global::Xamarin.Essentials.Resource.Drawable.notification_icon_background = global::Camera.Droid.Resource.Drawable.notification_icon_background;
+			global::Xamarin.Essentials.Resource.Drawable.notification_template_icon_bg = global::Camera.Droid.Resource.Drawable.notification_template_icon_bg;
+			global::Xamarin.Essentials.Resource.Drawable.notification_template_icon_low_bg = global::Camera.Droid.Resource.Drawable.notification_template_icon_low_bg;
+			global::Xamarin.Essentials.Resource.Drawable.notification_tile_bg = global::Camera.Droid.Resource.Drawable.notification_tile_bg;
+			global::Xamarin.Essentials.Resource.Drawable.notify_panel_notification_icon_bg = global::Camera.Droid.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::Xamarin.Essentials.Resource.Id.action_container = global::Camera.Droid.Resource.Id.action_container;
+			global::Xamarin.Essentials.Resource.Id.action_divider = global::Camera.Droid.Resource.Id.action_divider;
+			global::Xamarin.Essentials.Resource.Id.action_image = global::Camera.Droid.Resource.Id.action_image;
+			global::Xamarin.Essentials.Resource.Id.action_text = global::Camera.Droid.Resource.Id.action_text;
+			global::Xamarin.Essentials.Resource.Id.actions = global::Camera.Droid.Resource.Id.actions;
+			global::Xamarin.Essentials.Resource.Id.async = global::Camera.Droid.Resource.Id.async;
+			global::Xamarin.Essentials.Resource.Id.blocking = global::Camera.Droid.Resource.Id.blocking;
+			global::Xamarin.Essentials.Resource.Id.chronometer = global::Camera.Droid.Resource.Id.chronometer;
+			global::Xamarin.Essentials.Resource.Id.forever = global::Camera.Droid.Resource.Id.forever;
+			global::Xamarin.Essentials.Resource.Id.icon = global::Camera.Droid.Resource.Id.icon;
+			global::Xamarin.Essentials.Resource.Id.icon_group = global::Camera.Droid.Resource.Id.icon_group;
+			global::Xamarin.Essentials.Resource.Id.info = global::Camera.Droid.Resource.Id.info;
+			global::Xamarin.Essentials.Resource.Id.italic = global::Camera.Droid.Resource.Id.italic;
+			global::Xamarin.Essentials.Resource.Id.line1 = global::Camera.Droid.Resource.Id.line1;
+			global::Xamarin.Essentials.Resource.Id.line3 = global::Camera.Droid.Resource.Id.line3;
+			global::Xamarin.Essentials.Resource.Id.normal = global::Camera.Droid.Resource.Id.normal;
+			global::Xamarin.Essentials.Resource.Id.notification_background = global::Camera.Droid.Resource.Id.notification_background;
+			global::Xamarin.Essentials.Resource.Id.notification_main_column = global::Camera.Droid.Resource.Id.notification_main_column;
+			global::Xamarin.Essentials.Resource.Id.notification_main_column_container = global::Camera.Droid.Resource.Id.notification_main_column_container;
+			global::Xamarin.Essentials.Resource.Id.right_icon = global::Camera.Droid.Resource.Id.right_icon;
+			global::Xamarin.Essentials.Resource.Id.right_side = global::Camera.Droid.Resource.Id.right_side;
+			global::Xamarin.Essentials.Resource.Id.tag_transition_group = global::Camera.Droid.Resource.Id.tag_transition_group;
+			global::Xamarin.Essentials.Resource.Id.text = global::Camera.Droid.Resource.Id.text;
+			global::Xamarin.Essentials.Resource.Id.text2 = global::Camera.Droid.Resource.Id.text2;
+			global::Xamarin.Essentials.Resource.Id.time = global::Camera.Droid.Resource.Id.time;
+			global::Xamarin.Essentials.Resource.Id.title = global::Camera.Droid.Resource.Id.title;
+			global::Xamarin.Essentials.Resource.Integer.status_bar_notification_info_maxnum = global::Camera.Droid.Resource.Integer.status_bar_notification_info_maxnum;
+			global::Xamarin.Essentials.Resource.Layout.notification_action = global::Camera.Droid.Resource.Layout.notification_action;
+			global::Xamarin.Essentials.Resource.Layout.notification_action_tombstone = global::Camera.Droid.Resource.Layout.notification_action_tombstone;
+			global::Xamarin.Essentials.Resource.Layout.notification_template_custom_big = global::Camera.Droid.Resource.Layout.notification_template_custom_big;
+			global::Xamarin.Essentials.Resource.Layout.notification_template_icon_group = global::Camera.Droid.Resource.Layout.notification_template_icon_group;
+			global::Xamarin.Essentials.Resource.Layout.notification_template_part_chronometer = global::Camera.Droid.Resource.Layout.notification_template_part_chronometer;
+			global::Xamarin.Essentials.Resource.Layout.notification_template_part_time = global::Camera.Droid.Resource.Layout.notification_template_part_time;
+			global::Xamarin.Essentials.Resource.String.status_bar_notification_info_overflow = global::Camera.Droid.Resource.String.status_bar_notification_info_overflow;
+			global::Xamarin.Essentials.Resource.Style.TextAppearance_Compat_Notification = global::Camera.Droid.Resource.Style.TextAppearance_Compat_Notification;
+			global::Xamarin.Essentials.Resource.Style.TextAppearance_Compat_Notification_Info = global::Camera.Droid.Resource.Style.TextAppearance_Compat_Notification_Info;
+			global::Xamarin.Essentials.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::Camera.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2;
+			global::Xamarin.Essentials.Resource.Style.TextAppearance_Compat_Notification_Time = global::Camera.Droid.Resource.Style.TextAppearance_Compat_Notification_Time;
+			global::Xamarin.Essentials.Resource.Style.TextAppearance_Compat_Notification_Title = global::Camera.Droid.Resource.Style.TextAppearance_Compat_Notification_Title;
+			global::Xamarin.Essentials.Resource.Style.Widget_Compat_NotificationActionContainer = global::Camera.Droid.Resource.Style.Widget_Compat_NotificationActionContainer;
+			global::Xamarin.Essentials.Resource.Style.Widget_Compat_NotificationActionText = global::Camera.Droid.Resource.Style.Widget_Compat_NotificationActionText;
+			global::Xamarin.Essentials.Resource.Xml.xamarin_essentials_fileprovider_file_paths = global::Camera.Droid.Resource.Xml.xamarin_essentials_fileprovider_file_paths;
+			global::Xamarin.Essentials.Resource.Styleable.FontFamily = global::Camera.Droid.Resource.Styleable.FontFamily;
+			global::Xamarin.Essentials.Resource.Styleable.FontFamily_fontProviderAuthority = global::Camera.Droid.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::Xamarin.Essentials.Resource.Styleable.FontFamily_fontProviderCerts = global::Camera.Droid.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::Xamarin.Essentials.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::Camera.Droid.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::Xamarin.Essentials.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::Camera.Droid.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::Xamarin.Essentials.Resource.Styleable.FontFamily_fontProviderPackage = global::Camera.Droid.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::Xamarin.Essentials.Resource.Styleable.FontFamily_fontProviderQuery = global::Camera.Droid.Resource.Styleable.FontFamily_fontProviderQuery;
+			global::Xamarin.Essentials.Resource.Styleable.FontFamilyFont = global::Camera.Droid.Resource.Styleable.FontFamilyFont;
+			global::Xamarin.Essentials.Resource.Styleable.FontFamilyFont_android_font = global::Camera.Droid.Resource.Styleable.FontFamilyFont_android_font;
+			global::Xamarin.Essentials.Resource.Styleable.FontFamilyFont_android_fontStyle = global::Camera.Droid.Resource.Styleable.FontFamilyFont_android_fontStyle;
+			global::Xamarin.Essentials.Resource.Styleable.FontFamilyFont_android_fontWeight = global::Camera.Droid.Resource.Styleable.FontFamilyFont_android_fontWeight;
+			global::Xamarin.Essentials.Resource.Styleable.FontFamilyFont_font = global::Camera.Droid.Resource.Styleable.FontFamilyFont_font;
+			global::Xamarin.Essentials.Resource.Styleable.FontFamilyFont_fontStyle = global::Camera.Droid.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::Xamarin.Essentials.Resource.Styleable.FontFamilyFont_fontWeight = global::Camera.Droid.Resource.Styleable.FontFamilyFont_fontWeight;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarSize = global::Camera.Droid.Resource.Attribute.actionBarSize;
 		}
 		
@@ -5379,6 +5481,9 @@ namespace Camera.Droid
 			
 			// aapt resource value: 0x7f080000
 			public const int file_paths = 2131230720;
+			
+			// aapt resource value: 0x7f080001
+			public const int xamarin_essentials_fileprovider_file_paths = 2131230721;
 			
 			static Xml()
 			{

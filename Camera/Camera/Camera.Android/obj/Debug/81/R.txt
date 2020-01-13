@@ -2278,3 +2278,4 @@ int styleable ViewStubCompat_android_id 0
 int styleable ViewStubCompat_android_inflatedId 2
 int styleable ViewStubCompat_android_layout 1
 int xml file_paths 0x7f080000
+int xml xamarin_essentials_fileprovider_file_paths 0x7f080001

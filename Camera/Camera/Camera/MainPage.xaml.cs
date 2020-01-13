@@ -14,6 +14,7 @@ using System.Linq;
 using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
+using Xamarin.Essentials;
 using Xamarin.Forms;
 
 namespace Camera
@@ -133,7 +134,7 @@ namespace Camera
             return token;
         }
 
-        ////Use it only if your token is expired
+        
         //public Task<IOAuth2Token> RefreshToken()
         //{
         //    var client = new ImgurClient(CLIENT_ID, CLIENT_SECRET);
@@ -162,7 +163,11 @@ namespace Camera
 
 
                         var response = await endpoint.UploadImageStreamAsync(file.GetStream());
-                        await DisplayAlert("Success", response.Description, "ok");
+                      bool isOpen= await DisplayAlert("Upload Success", "Want To See The Image?", "YES","NO");
+                    if (isOpen)
+                    {
+                       await Browser.OpenAsync(response.Link, BrowserLaunchMode.External);
+                    }
 
 
                     }

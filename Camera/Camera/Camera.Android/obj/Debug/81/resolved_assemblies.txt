@@ -15,6 +15,8 @@ C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\a
 C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\System.Net.Http.dll
 C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\System.Net.Http.Extensions.dll
 C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\System.Net.Http.Primitives.dll
+C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\System.Numerics.dll
+C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\System.Numerics.Vectors.dll
 C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\System.Xml.dll
 C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\System.Xml.Linq.dll
 C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\Xamarin.Android.Arch.Core.Common.dll
@@ -25,6 +27,7 @@ C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\a
 C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Compat.dll
 C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Core.UI.dll
 C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.CustomTabs.dll
 C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Design.dll
 C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Fragment.dll
 C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Media.Compat.dll
@@ -36,13 +39,13 @@ C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\a
 C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.Palette.dll
 C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
 C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\Xamarin.Essentials.dll
 C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.dll
 C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.dll
 C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.dll
 C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.dll
 C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\netstandard.dll
 C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\System.Data.dll
-C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\System.Numerics.dll
 C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\System.Transactions.dll
 C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\System.IO.Compression.FileSystem.dll
 C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\System.ComponentModel.Composition.dll
