@@ -1,11 +1,14 @@
 C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\Camera.Android.dll
 C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\Camera.dll
+C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\FastAndroidCamera.dll
 C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\FormsViewGroup.dll
 C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\Imgur.API.dll
 C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\Java.Interop.dll
 C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\Mono.Android.dll
 C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\mscorlib.dll
 C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\Newtonsoft.Json.dll
+C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\Plugin.Connectivity.Abstractions.dll
+C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\Plugin.Connectivity.dll
 C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\Plugin.CurrentActivity.dll
 C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\Plugin.Media.dll
 C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\Plugin.Permissions.dll
@@ -44,6 +47,11 @@ C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\a
 C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.dll
 C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.dll
 C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.dll
+C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\ZXing.Net.Mobile.Core.dll
+C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\ZXing.Net.Mobile.Forms.Android.dll
+C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\ZXing.Net.Mobile.Forms.dll
+C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\zxing.portable.dll
+C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\ZXingNetMobile.dll
 C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\netstandard.dll
 C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\System.Data.dll
 C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera.Android\obj\Debug\81\android\assets\System.Transactions.dll

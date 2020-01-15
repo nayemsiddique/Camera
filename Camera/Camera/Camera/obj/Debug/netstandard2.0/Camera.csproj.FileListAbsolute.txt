@@ -9,4 +9,5 @@ C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera\obj\Debug\netstandard2
 C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera\obj\Debug\netstandard2.0\Camera.dll
 C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera\obj\Debug\netstandard2.0\Camera.pdb
 C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera\obj\Debug\netstandard2.0\Camera.csprojAssemblyReference.cache
+C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera\obj\Debug\netstandard2.0\InternetConnectionErrorPage.xaml.g.cs
 C:\Users\Nayem Siddique\source\repos\Camera\Camera\Camera\obj\Debug\netstandard2.0\XamlC.stamp

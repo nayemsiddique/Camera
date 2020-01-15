@@ -1,7 +1,10 @@
 Camera
+FastAndroidCamera
 FormsViewGroup
 Imgur.API
 Newtonsoft.Json
+Plugin.Connectivity.Abstractions
+Plugin.Connectivity
 Plugin.CurrentActivity
 Plugin.Media
 Plugin.Permissions
@@ -33,5 +36,10 @@ Xamarin.Forms.Core
 Xamarin.Forms.Platform.Android
 Xamarin.Forms.Platform
 Xamarin.Forms.Xaml
+ZXing.Net.Mobile.Core
+ZXing.Net.Mobile.Forms.Android
+ZXing.Net.Mobile.Forms
+zxing.portable
+ZXingNetMobile
 netstandard
 System.Reflection.Extensions

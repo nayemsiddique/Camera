@@ -129,6 +129,12 @@ namespace Camera.Droid
 			global::Xamarin.Essentials.Resource.Styleable.FontFamilyFont_fontStyle = global::Camera.Droid.Resource.Styleable.FontFamilyFont_fontStyle;
 			global::Xamarin.Essentials.Resource.Styleable.FontFamilyFont_fontWeight = global::Camera.Droid.Resource.Styleable.FontFamilyFont_fontWeight;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarSize = global::Camera.Droid.Resource.Attribute.actionBarSize;
+			global::ZXing.Net.Mobile.Forms.Android.Resource.Layout.zxingscanneractivitylayout = global::Camera.Droid.Resource.Layout.zxingscanneractivitylayout;
+			global::ZXing.Net.Mobile.Forms.Android.Resource.Layout.zxingscannerfragmentlayout = global::Camera.Droid.Resource.Layout.zxingscannerfragmentlayout;
+			global::ZXing.Net.Mobile.Forms.Android.Resource.String.library_name = global::Camera.Droid.Resource.String.library_name;
+			global::ZXing.Mobile.Resource.Id.contentFrame = global::Camera.Droid.Resource.Id.contentFrame;
+			global::ZXing.Mobile.Resource.Layout.zxingscanneractivitylayout = global::Camera.Droid.Resource.Layout.zxingscanneractivitylayout;
+			global::ZXing.Mobile.Resource.Layout.zxingscannerfragmentlayout = global::Camera.Droid.Resource.Layout.zxingscannerfragmentlayout;
 		}
 		
 		public partial class Animation
@@ -3210,6 +3216,9 @@ namespace Camera.Droid
 			// aapt resource value: 0x7F0C0020
 			public const int container = 2131492896;
 			
+			// aapt resource value: 0x7F010174
+			public const int contentFrame = 2130772340;
+			
 			// aapt resource value: 0x7F0C0021
 			public const int contentPanel = 2131492897;
 			
@@ -3918,6 +3927,12 @@ namespace Camera.Droid
 			// aapt resource value: 0x7F0F003C
 			public const int tooltip = 2131689532;
 			
+			// aapt resource value: 0x7F020070
+			public const int zxingscanneractivitylayout = 2130837616;
+			
+			// aapt resource value: 0x7F020071
+			public const int zxingscannerfragmentlayout = 2130837617;
+			
 			static Layout()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
@@ -4051,6 +4066,9 @@ namespace Camera.Droid
 			
 			// aapt resource value: 0x7F150020
 			public const int character_counter_pattern = 2132082720;
+			
+			// aapt resource value: 0x7F080062
+			public const int library_name = 2131230818;
 			
 			// aapt resource value: 0x7F15001E
 			public const int mr_button_content_description = 2132082718;

@@ -3,13 +3,16 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:Camera"
              x:Class="Camera.MainPage">
-
-    <StackLayout VerticalOptions="Center">
-        <Button Text="Capture" Clicked="TakePhotoAction"></Button>
-        <Button Text="Choose" Clicked="ChoosePhotoAction"></Button>
-        <Button Text="Upload" Clicked="UploadButtonAction"></Button>
-        <Image x:Name="myImage"></Image>
-        <Label x:Name="label"></Label>
+    <StackLayout Padding="20,20,20,20">
+        <StackLayout VerticalOptions="Center" >
+            <Button Text="Capture" Clicked="TakePhotoAction" Padding="-5"></Button>
+            <Button Text="Choose" Clicked="ChoosePhotoAction" Padding="-5"></Button>
+            <Button Text="Upload" Clicked="UploadButtonAction" Padding="-5"></Button>
+            <Button Text="Scan" Clicked="ScanButtonAction"></Button>
+            <Image x:Name="myImage"></Image>
+            <ActivityIndicator x:Name="activityIndicator" Color="Red"></ActivityIndicator>
+            <Label x:Name="status" VerticalOptions="Center" FontSize="Medium"></Label>
+        </StackLayout>
     </StackLayout>
 
 </ContentPage>
