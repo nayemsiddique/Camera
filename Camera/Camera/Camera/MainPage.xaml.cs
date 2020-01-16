@@ -1,9 +1,7 @@
-﻿
-using Camera.Model;
+﻿using Camera.Model;
 using Imgur.API;
 using Imgur.API.Authentication.Impl;
 using Imgur.API.Endpoints.Impl;
-using Imgur.API.Models.Impl;
 using Plugin.Media;
 using Plugin.Media.Abstractions;
 using Plugin.Permissions;
@@ -12,7 +10,6 @@ using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
-using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Essentials;
@@ -38,7 +35,7 @@ namespace Camera
             Application.Current.Properties["IMGUR_USER_ACCOUNT"] = "nayemasif";
             Application.Current.Properties["EXPIRES_IN"] = "315360000";
 
-            
+
 
         }
 
@@ -103,7 +100,7 @@ namespace Camera
             {
                 var permission = await CrossPermissions.Current.RequestPermissionsAsync(Permission.Storage);
                 var status = permission[Permission.Storage];
-                if (status== PermissionStatus.Denied)
+                if (status == PermissionStatus.Denied)
                 {
                     await DisplayAlert("File Access Error", "Need File Access", "Ok");
                     return;
@@ -207,7 +204,7 @@ namespace Camera
             else
             {
                 file = null;
-                
+
                 return;
             }
         }
@@ -223,7 +220,7 @@ namespace Camera
             {
                 Device.BeginInvokeOnMainThread(async () =>
                 {
-                    
+
                     await Navigation.PopAsync();
 
                     status.Text = result.Text;
